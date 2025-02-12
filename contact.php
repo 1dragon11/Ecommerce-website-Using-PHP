@@ -14,8 +14,7 @@
                        <a href="index.php">Home</a>
                    </li>
                    <li>
-                    
-                       Contact with Us
+                       Contact Us
                    </li>
                </ul><!-- breadcrumb Finish -->
                
